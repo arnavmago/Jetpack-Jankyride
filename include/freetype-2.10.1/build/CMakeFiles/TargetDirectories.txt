@@ -1,0 +1,9 @@
+/mnt/c/Users/arnav/OneDrive/Desktop/freetype-2.10.1/build/CMakeFiles/install/strip.dir
+/mnt/c/Users/arnav/OneDrive/Desktop/freetype-2.10.1/build/CMakeFiles/install/local.dir
+/mnt/c/Users/arnav/OneDrive/Desktop/freetype-2.10.1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/arnav/OneDrive/Desktop/freetype-2.10.1/build/CMakeFiles/package_source.dir
+/mnt/c/Users/arnav/OneDrive/Desktop/freetype-2.10.1/build/CMakeFiles/install.dir
+/mnt/c/Users/arnav/OneDrive/Desktop/freetype-2.10.1/build/CMakeFiles/list_install_components.dir
+/mnt/c/Users/arnav/OneDrive/Desktop/freetype-2.10.1/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/arnav/OneDrive/Desktop/freetype-2.10.1/build/CMakeFiles/package.dir
+/mnt/c/Users/arnav/OneDrive/Desktop/freetype-2.10.1/build/CMakeFiles/freetype.dir
