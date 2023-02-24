@@ -20,14 +20,20 @@ The character will always be moving to the right, you can hold spacebar to go up
 
 ### Coins -
 
+```
 Coins are small yellow randomly apperaing circles that increase your score upon collecting them, a better score is good. Each level spawns an additional coin allowing you a higher score but at a higher risk.
+```
 
 ### Zappers
 
+```
 Zappers are the only onstacle in the game, they are randomly spawned and rotate at different speeds (with the speeds increasing with level), contact with the zapper causes the player to die.
+```
 
 ## Weird features and information
 
+```
 Both the player and the Zappers will glow throughout the duration of the game
 
 The game is heavy duty and will require a GPU to support its smooth running
+```
