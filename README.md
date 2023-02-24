@@ -4,7 +4,9 @@
 
 ### To run the application -
 
-In the home directory (i.e. the main directory after downloading and unzipping the code files, should have the src, libraries, include and fonts folder within it) run `mkdir build; cd build; cmake ..; make` or run them as the following one after the other `mkdir build`, `cd build`, `cmake ..`, `make`, this will create the build directory and create the executable file needed to run the application
+In the home directory (i.e. the main directory after downloading and unzipping the code files, should have the src, libraries, include and fonts folder within it) run
+```mkdir build; cd build; cmake ..; make```
+ or run them as the following one after the other `mkdir build`, `cd build`, `cmake ..`, `make`, this will create the build directory and create the executable file needed to run the application
 
 After those commands are done executing a file called `app` will be created in the build directory, this is the executable file for the game. Run `./app` to execute the game
 
